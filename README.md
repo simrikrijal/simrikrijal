@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Simrik!
+- 👀 I’m interested in business aspects of Data Analysis.
+- 🌱 I’m currently studying Data Analytics.
+- 📫 You can reach me at simrikrijal@gmail.com 
